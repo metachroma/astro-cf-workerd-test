@@ -1,0 +1,1 @@
+npx workerd serve config.capnp 
